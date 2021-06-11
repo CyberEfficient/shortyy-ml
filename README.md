@@ -52,11 +52,3 @@
 ## Future Plans
 - We are planning to add an API related system which you can use to add or delete links to the database using GET/POST/DELETE etc. requests, so if you want to contribute, it will be highly appreciated.
 
-
-
-## Special Thanks To [Cyber Efficient](https://www.cyberefficient.io/) For Supporting This Project Which Made It Possibe To Host It.
-
-
-
-# THANK YOU
-### ~ Rudransh Joshi
