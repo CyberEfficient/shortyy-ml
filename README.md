@@ -20,7 +20,8 @@
 
 ## Usage
 - Clone The Repository On Your PC.
-  Command : git clone https://github.com/CyberEfficient/shortyy-ml.git
+  
+  Command : ** git clone https://github.com/CyberEfficient/shortyy-ml.git **
 
 - Open PGAdmin4 (GUI) or PSQL (Shell) and create a new database and clone the database using Restore option, i.e, import the file shortyy (included in repository), this will create just the required table and schema inside the database without any data.
 
